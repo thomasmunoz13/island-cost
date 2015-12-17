@@ -1,10 +1,10 @@
 # Island Cost
 
-A shell script that analyze the logs available at [https://github.com/mosser/QGL-15-16](https://github.com/mosser/QGL-15-16)
-and compute the average/max/min of every actions used in the championships.
+A shell script that analyzes the logs available at [https://github.com/mosser/QGL-15-16](https://github.com/mosser/QGL-15-16)
+and compute the average/max/min of every action used in the championships.
 
 ## Requirements 
-In order to use this you must have both *nodejs* and *git* installed on your computer
+In order to use it you must have both **Node.js** and **git** installed on your computer
 
 ## Usage
 ```
