@@ -17,7 +17,7 @@ In order to use it you must have both **Node.js** and **git** installed on your 
 # Will put the result in a file named "costs.txt" and will be a little bit more verbose
 ./stats costs.txt 1
 
-# Will put the result in a file named "result.txt" and will clean the directory (in case the last command failed or be stopped to early)
+# Will put the result in a file named "result.txt" and will clean the directory (in case the last command failed or be stopped too early)
 ./stats clean
 
 ```
