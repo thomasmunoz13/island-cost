@@ -9,16 +9,16 @@ In order to use it you must have both **Node.js** and **git** installed on your 
 ## Usage
 ```
 # Will put the result in a file named "result.txt"
-./stats
+./stats.sh
 
 # Will put the result in a file named "costs.txt"
-./stats costs.txt
+./stats.sh costs.txt
 
 # Will put the result in a file named "costs.txt" and will be a little bit more verbose
-./stats costs.txt 1
+./stats.sh costs.txt 1
 
 # Will put the result in a file named "result.txt" and will clean the directory (in case the last command failed or be stopped too early)
-./stats clean
+./stats.sh clean
 
 ```
 
